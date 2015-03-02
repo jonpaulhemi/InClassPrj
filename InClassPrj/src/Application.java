@@ -8,7 +8,7 @@ public class Application {
 				System.out.print(nickSucks[i]);
 				Thread.sleep(200);
 			}
-			System.out.println();
+			System.out.println(); //add comments
 		}	
 	}
 	
